@@ -1,0 +1,9 @@
+<!ELEMENT wow(rogue,fav)>
+<!ELEMENT rogue(talent)>
+<!ELEMENT fav(rogueplayer)>
+<!ELEMENT talent(catgry,pvprate)>
+<!ELEMENT catgry(#PCDATA)>
+<!ELEMENT pvprate(#PCDATA)>
+<!ELEMENT rogueplayer(name,realm)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT realm(#PCDATA)>

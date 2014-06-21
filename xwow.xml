@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE wow SYSTEM "xwow.dtd">
+<wow>
+    <rogue>
+		<talent>
+			<catgry>combat</catgry>
+			<pvprate>low</pvprate>
+		</talent>
+		<talent>
+				<catgry>subtlety</catgry>
+				<pvprate>high</pvprate>
+		</talent>
+		<talent>
+				<catgry>assassination</catgry>
+				<pvprate>med</pvprate>
+		</talent>
+	</rogue>
+	<fav>
+		<rogueplayer>
+			<name>Acrono</name>
+			<realm>StormScale</realm>
+		</rogueplayer>
+	</fav>
+</wow>

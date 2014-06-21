@@ -1,0 +1,9 @@
+<!ELEMENT graph(nodes,edges)>
+<!ELEMENT nodes(node)>
+<!ELEMENT edges(edge)>
+<!ELEMENT node(position,label)>
+<!ELEMENT position(#PCDATA)>
+<!ELEMENT label(#PCDATA)>
+<!ELEMENT edge(source,destination)>
+<!ELEMENT source(#PCDATA)>
+<!ELEMENT destination(#PCDATA)>

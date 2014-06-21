@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE wow SYSTEM "xwow.dtd">
+<wow>
+    <rogue>
+		<talent>
+				<catgry>assassination</catgry>
+				<pvprate>med</pvprate>
+		</talent>
+	</rogue>
+	<fav>
+		<rogueplayer>
+			<name>Acrono</name>
+			<realm>StormScale</realm>
+		</rogueplayer>
+	</fav>
+	<fav>
+		<rogueplayer>
+			<name>Shurrick</name>
+			<realm>Unknown</realm>
+		</rogueplayer>
+	</fav>
+	<fav>
+		<rogueplayer>
+			<name>Neilyo</name>
+			<realm>Tichondrius</realm>
+		</rogueplayer>
+	</fav>
+</wow>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE graph SYSTEM "graph.dtd">
+<graph>
+    <nodes>
+		<node>
+			<position>(0,0)</position>
+			<label>a</label>
+		</node>
+		<node>
+				<position>(1,1)</position>
+				<label>b</label>
+		</node>
+		<node>
+				<position>(2,2)</position>
+				<label>c</label>
+		</node>
+	</nodes>
+	<edges>
+		<edge>
+			<source>a</source>
+			<destination>b</destination>
+		</edge>
+		<edge>
+			<source>b</source>
+			<destination>c</destination>
+		</edge>
+	</edges>
+</graph>
